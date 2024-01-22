@@ -750,7 +750,20 @@ jobs:
         lat: 47.9886008
         long: 7.835171
     review: https://www.kununu.com/de/jobrad
-    rating: 4.2
+    rating: 3.9
+  - name: Company Bike Solutions
+    website: https://www.company-bike.com
+    jobs: https://karriere.compamy-bike.com
+    description: Diensträder
+    remote: true
+    speculative: true
+    field: Sustainable Mobility
+    geo:
+      - country: Germany
+        lat: 48.09659408225327
+        long: 11.523327041418641
+    review: https://www.https://www.kununu.com/de/company-bike-solutions2
+    rating: 3.9
   - name: tado°
     website: https://www.tado.com/
     jobs: https://www.tado.com/de-de/arbeiten-bei-tado
